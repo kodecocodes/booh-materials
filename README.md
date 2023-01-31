@@ -6,7 +6,7 @@ Each edition has its own branch, named `editions/[EDITION]`. The default branch 
 
 ## Forum
 
-We’ve set up an official forum for the book at [https://forums.kodeco.com/c/books](https://forums.kodeco.com/c/books). This is a great place to ask questions about the book or to submit any errors you may find.
+We’ve set up an official forum for the book at [https://forums.kodeco.com/c/books/hack-your-job-search](https://forums.kodeco.com/c/books/hack-your-job-search). This is a great place to ask questions about the book or to submit any errors you may find.
 
 ## Release History
 
